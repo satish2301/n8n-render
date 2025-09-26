@@ -11,4 +11,3 @@ ENV WEBHOOK_TUNNEL_URL=https://n8n-render-994q.onrender.com
 
 EXPOSE 5678
 
-CMD ["n8n"]
